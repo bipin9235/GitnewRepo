@@ -1,1 +1,1 @@
-console.log("Commited new good one");
+console.log("Commited new bad one");
